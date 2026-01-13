@@ -1,0 +1,33 @@
+HELP.md
+/spring-framework-7-spring-boot-4-web-app/target/
+/spring-framework-7-spring-boot-4-web-app/.mvn/wrapper/maven-wrapper.jar
+!**/spring-framework-7-spring-boot-4-web-app/src/main/**/target/
+!**/spring-framework-7-spring-boot-4-web-app/src/test/**/target/
+
+### STS ###
+/spring-framework-7-spring-boot-4-web-app/.apt_generated
+/spring-framework-7-spring-boot-4-web-app/.classpath
+.factorypath
+/spring-framework-7-spring-boot-4-web-app/.project
+/spring-framework-7-spring-boot-4-web-app/.settings
+/spring-framework-7-spring-boot-4-web-app/.springBeans
+/spring-framework-7-spring-boot-4-web-app/.sts4-cache
+
+### IntelliJ IDEA ###
+/spring-framework-7-spring-boot-4-web-app/.idea
+/spring-framework-7-spring-boot-4-web-app/*.iws
+/spring-framework-7-spring-boot-4-web-app/*.iml
+/spring-framework-7-spring-boot-4-web-app/*.ipr
+
+### NetBeans ###
+/spring-framework-7-spring-boot-4-web-app/nbproject/private/
+/spring-framework-7-spring-boot-4-web-app/nbbuild/
+/spring-framework-7-spring-boot-4-web-app/dist/
+/spring-framework-7-spring-boot-4-web-app/nbdist/
+/spring-framework-7-spring-boot-4-web-app/.nb-gradle/
+/spring-framework-7-spring-boot-4-web-app/build/
+!**/spring-framework-7-spring-boot-4-web-app/src/main/**/build/
+!**/spring-framework-7-spring-boot-4-web-app/src/test/**/build/
+
+### VS Code ###
+.vscode/spring-framework-7-spring-boot-4-web-app/
