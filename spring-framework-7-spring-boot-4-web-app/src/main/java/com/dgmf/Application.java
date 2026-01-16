@@ -1,13 +1,13 @@
-package com.dgmf.spring_7_4_web_app;
+package com.dgmf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringFramework7SpringBoot4WebAppApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringFramework7SpringBoot4WebAppApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
